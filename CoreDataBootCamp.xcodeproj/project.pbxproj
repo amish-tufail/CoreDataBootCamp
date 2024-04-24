@@ -55,8 +55,7 @@
 		048034452BD8C43900B14489 /* CoreDataBootCamp */ = {
 			isa = PBXGroup;
 			children = (
-				048034462BD8C43900B14489 /* CoreDataBootCampApp.swift */,
-				048034482BD8C43900B14489 /* ContentView.swift */,
+				048034592BD8C48800B14489 /* App */,
 				0480344A2BD8C43A00B14489 /* Assets.xcassets */,
 				0480344F2BD8C43A00B14489 /* Persistence.swift */,
 				048034512BD8C43A00B14489 /* CoreDataBootCamp.xcdatamodeld */,
@@ -71,6 +70,15 @@
 				0480344D2BD8C43A00B14489 /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		048034592BD8C48800B14489 /* App */ = {
+			isa = PBXGroup;
+			children = (
+				048034462BD8C43900B14489 /* CoreDataBootCampApp.swift */,
+				048034482BD8C43900B14489 /* ContentView.swift */,
+			);
+			path = App;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
